@@ -1,5 +1,5 @@
 <h1>Suspend Roblox Threads</h1>
-<h3>Suspend <b>all</b> threads on Roblox and enable debug privilege, allowing you to attach debuggers, disassemblers and memory scanners. This is useful if you are trying to reverse engineer Byfron (Roblox's anticheat) or trying to dump memory (for dumping scripts protected by Luarmor)</h3>
+<h3>Lets you suspend <b>all</b> threads on Roblox and enables debug privilege, allowing you to attach debuggers, disassemblers and memory scanners. This is useful if you are trying to reverse engineer Byfron (Roblox's anticheat) or trying to dump memory (for dumping scripts protected by Luarmor)</h3>
 
 <h1>Installation</h1>
 <ul>
