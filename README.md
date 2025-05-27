@@ -1,5 +1,5 @@
 <h1>Suspend Roblox Threads</h1>
-<h3>Allows you to suspend <b>all</b> threads on Roblox, allowing you to attach debuggers, disassemblers and memory scanners. This is useful if you are trying to reverse engineer Byfron (Roblox's anticheat) or trying to dump memory (for dumping scripts protected by Luarmor)</h3>
+<h3>Allows you to suspend <b>all</b> threads on Roblox and enabling debug privilege, allowing you to attach debuggers, disassemblers and memory scanners. This is useful if you are trying to reverse engineer Byfron (Roblox's anticheat) or trying to dump memory (for dumping scripts protected by Luarmor)</h3>
 
 <h1>Installation</h1>
 <ul>
@@ -32,6 +32,6 @@
 <h1>Use Case 2: Reverse Engineering</h1>
 <ul>
   <li>1. Run SuspendRobloxThreads.exe to freeze Roblox</li>
-  <li>2. Since Byfron threads are suspended, you can attach anything you like without crashing and being flagged</li>
+  <li>2. Since Byfron threads are suspended and debug privileges are enabled, you can attach anything you like without crashing and being flagged</li>
   <li>3. This allows you to analyze assembly pseudo code of Roblox freely</li>
 </ul>
