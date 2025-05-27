@@ -101,7 +101,7 @@ int main()
     };
 
     if (processId != 0) {
-        std::cout << ListProcessThreads(processId);
+        //std::cout << ListProcessThreads(processId);
         HANDLE processHandle = OpenProcess(PROCESS_ALL_ACCESS, FALSE, processId);
         if (processHandle == NULL) {
             return FALSE;
